@@ -1,0 +1,136 @@
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\appsettings.Development.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\appsettings.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\DatingApp.API.exe
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\DatingApp.API.deps.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\DatingApp.API.runtimeconfig.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\DatingApp.API.pdb
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.AssemblyReference.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.AssemblyInfoInputs.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.AssemblyInfo.cs
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.CoreCompileInputs.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cs
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\scopedcss\bundle\DatingApp.API.styles.css
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.CopyComplete
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\refint\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.pdb
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\DatingApp.API.genruntimeconfig.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp.API\obj\Debug\net6.0\ref\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\appsettings.Development.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\appsettings.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.exe
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.deps.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.runtimeconfig.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.pdb
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Humanizer.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.AssemblyReference.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.AssemblyInfoInputs.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.AssemblyInfo.cs
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.CoreCompileInputs.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cs
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\scopedcss\bundle\DatingApp.API.styles.css
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.CopyComplete
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\refint\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.pdb
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.genruntimeconfig.cache
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\obj\Debug\net6.0\ref\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CODELapTrinh\Dotnet C#\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\appsettings.Development.json
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\appsettings.json
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.exe
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.deps.json
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.runtimeconfig.json
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\DatingApp.API.pdb
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Humanizer.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.AssemblyReference.cache
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.AssemblyInfoInputs.cache
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.AssemblyInfo.cs
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.CoreCompileInputs.cache
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cs
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\scopedcss\bundle\DatingApp.API.styles.css
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.csproj.CopyComplete
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\refint\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.pdb
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\DatingApp.API.genruntimeconfig.cache
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\obj\Debug\net6.0\ref\DatingApp.API.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\MySqlConnector.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\Data\Seed\user_data.json
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\AutoMapper.dll
+E:\CODELapTrinh\Dotnet\API\DatingApp\DatingApp.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
